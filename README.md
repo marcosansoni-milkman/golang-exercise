@@ -1,2 +1,2 @@
 # golang
-Rist exercise into golang
+First exercise into golang
